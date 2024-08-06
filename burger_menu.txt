@@ -1,0 +1,130 @@
+Burgers:
+    Classic Beef Burger
+        Less onions
+        Extra onions
+        Light ketchup
+        More ketchup
+        Extra beef patty
+        Extra cheese slice
+        Add tomato
+        Add pickles
+
+    Cheese Beef Burger
+        Less onions
+        Extra onions
+        Light ketchup
+        More ketchup
+        Extra beef patty
+        Extra cheese slice
+        Add tomato
+        Add pickles
+
+    Bacon Beef Burger
+        Less onions
+        Extra onions
+        Light ketchup
+        More ketchup
+        Extra beef patty
+        Extra cheese slice
+        Add tomato
+        Add pickles
+
+    BBQ Beef Burger
+        Less onions
+        Extra onions
+        Light ketchup
+        More ketchup
+        Extra beef patty
+        Extra cheese slice
+        Add tomato
+        Add pickles
+
+    Mushroom Swiss Beef Burger
+        Less onions
+        Extra onions
+        Light ketchup
+        More ketchup
+        Extra beef patty
+        Extra cheese slice
+        Add tomato
+        Add pickles
+
+    Veggie Burger
+        Less onions
+        Extra onions
+        Light ketchup
+        More ketchup
+        Extra cheese slice
+        Add tomato
+        Add pickles
+
+    Spicy Chicken Burger
+        Less onions
+        Extra onions
+        Light ketchup
+        More ketchup
+        Extra chicken patty
+        Extra cheese slice
+        Add tomato
+        Add pickles
+
+    Classic Chicken Burger
+        Less onions
+        Extra onions
+        Light ketchup
+        More ketchup
+        Extra chicken patty
+        Extra cheese slice
+        Add tomato
+        Add pickles
+
+    Turkey Burger
+        Less onions
+        Extra onions
+        Light ketchup
+        More ketchup
+        Extra turkey patty
+        Extra cheese slice
+        Add tomato
+        Add pickles
+
+    Beyond Meat Burger
+        Less onions
+        Extra onions
+        Light ketchup
+        More ketchup
+        Extra Beyond Meat patty
+        Extra cheese slice
+        Add tomato
+        Add pickles
+
+Salads:
+    Caesar Salad
+        Ranch dressing
+        Caesar dressing
+        Italian dressing
+    House Salad
+        Caesar dressing
+        Italian dressing
+
+Sides:
+    French Fries
+        Sm
+        Med
+        Lrg
+    Onion Rings
+    Sweet Potato Fries
+    Coleslaw
+    Side Caesar Salad
+
+Fountain Drinks:
+    Small
+    Coca-Cola
+    Diet Coca-Cola
+    Sprite
+    Fanta
+    A&W Root Beer
+    Medium
+    Cola
+    Large
+    Diet Coca Cola

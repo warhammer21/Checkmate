@@ -1,0 +1,385 @@
+12" Pizzas
+    Pepperoni
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Cheese
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Meat Lover
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Deluxe
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Pineapple
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Veggie Delight
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    BBQ Chicken
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Spicy Italian
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Hawaiian
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Margherita
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+14" Pizzas
+    Pepperoni
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Cheese
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Meat Lover
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Deluxe
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Pineapple
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Veggie Delight
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    BBQ Chicken
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Spicy Italian
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Hawaiian
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Margherita
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+18" Pizzas
+    Pepperoni
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Cheese
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Meat Lover
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Deluxe
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Pineapple
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Veggie Delight
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    BBQ Chicken
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Spicy Italian
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Hawaiian
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+    Margherita
+        Pepperoni
+        Extra cheese
+        Bacon
+        Sausage
+        Red onions
+        Red peppers
+        Olives
+        Pineapple
+        Mushroom
+        BBQ chicken
+
+Starters
+    Garlic Bread
+        Cheese topping
+        Extra garlic
+    Chicken Wings
+        1lb
+        2lb
+    French Fries
+        Small
+        Medium
+        Large
+
+Drinks
+    Cola - Can
+    Diet Cola - Can
+    Lemon-Lime - Can
+    Orange - Can
+    Root Beer - Can
+    Diet Cola - Bottle
+    Lemon-Lime - Bottle
+    Orange - Bottle
+    Root Beer - Bottle
