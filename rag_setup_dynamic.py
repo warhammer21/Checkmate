@@ -64,7 +64,7 @@ Contexts:
 Query: {query}"""
     return augmented_prompt
 
-chat_model = ChatOpenAI(model_name="gpt-3.5-turbo", openai_api_key="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")
+chat_model = ChatOpenAI(model_name="gpt-3.5-turbo", openai_api_key="")
 
 def chat(messages):
     """
